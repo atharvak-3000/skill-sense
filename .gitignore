@@ -4,3 +4,11 @@
 # React Router
 /.react-router/
 /build/
+# Ensure these are in your .gitignore
+node_modules/
+.env
+.env.local
+.env.production.local
+npm-debug.log*
+build/
+dist/
